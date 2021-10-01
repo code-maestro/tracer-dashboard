@@ -26,6 +26,7 @@ function save() {
   alert('Saved')
 }
 
+////Function to retrieve the data stored in the realtime database
 // function get() {
 //   var username = document.getElementById('email').value
 
@@ -39,6 +40,7 @@ function save() {
 
 // }
 
+////Function to update the data stored in the realtime database
 // function update() {
 //   var email = document.getElementById('email').value
 
@@ -52,6 +54,7 @@ function save() {
 //   alert('updated')
 // }
 
+////Function to delete the data from the realtime database
 // function remove() {
 //   var username = document.getElementById('email').value
 
